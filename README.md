@@ -35,6 +35,23 @@ yolo-detection-app/
 
 ---
 
+## 📦 Dataset Used
+
+This project uses a Pascal VOC-style annotated dataset converted to **YOLOv4 Darknet** format, hosted on [Roboflow](https://roboflow.com).
+
+- 📁 **Dataset Name:** Pascal to YOLOv4 Darknet  
+- 🔗 **Access Link:** [Roboflow Dataset – Pascal to YOLOv4 Darknet (v3)](https://universe.roboflow.com/patrick-aaiqr/pascal-to-yolov4-darknet/dataset/3)
+- 🧾 **Annotations Format:** YOLOv4 (Darknet TXT files)
+- 🐾 **Use Case:** Object detection of animals for endangered species classification
+- 📊 Includes classes, bounding boxes, and image preprocessing tools
+
+To use this dataset:
+1. Download the ZIP from the Roboflow dataset page (linked above)
+2. Unzip it into your working directory
+3. Train or test using the `best_model.pt` after proper training
+
+---
+
 ## ⚙️ Setup & Installation
 
 ### 🔧 Backend Setup (Flask)
