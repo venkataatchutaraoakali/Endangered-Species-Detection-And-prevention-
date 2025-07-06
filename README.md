@@ -135,5 +135,6 @@ We welcome contributions! Here's how:
 
 ## 📷 Screenshot
 
-![sample](https://github.com/user-attachments/assets/a8b52a23-2b94-44ea-b5fc-ec36bd69c260)
+![example](https://github.com/user-attachments/assets/4e383d67-bf2c-434f-983c-16eab1e5b7ab)
+
 
