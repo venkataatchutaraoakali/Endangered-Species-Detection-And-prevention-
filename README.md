@@ -1,4 +1,4 @@
-# 🐾 Endangered Species Detection and Prevention
+# Endangered Species Detection and Prevention
 
 A full-stack web application that detects and analyzes endangered species using **YOLO object detection**. The app provides detailed information about detected animals including their habitat, conservation status, threats, and protection measures.
 
